@@ -2,4 +2,6 @@ belajar git
 wahyu pertama
 kopi
 meliodas
-praxis academy
+praxis academy 
+
+hello world
