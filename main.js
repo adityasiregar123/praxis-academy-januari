@@ -57,8 +57,8 @@ let y = 5 + 5;
 let z = "Hello" + 5;
 // console.log(o,y,z);
 
-let m = 4;
-let n = 7;
+let m = "apel";
+let n = "apel";
 let p = m + n;
 let q = m - n;
 let r = m * n;
@@ -67,15 +67,16 @@ let t = m % n;
 let u = (m + n) * 3;
 // console.log(u);
 
-// if (n < m) {
-//     console.log("mega");
+// if (n != m) {
+//     console.log("true");
 // } else {
-//     console.log("mini");
+//     console.log("false");
+
 // }
 
-const namaKades = "Sugiono";
-const namaCamat = "Agus";
-const jabatan = "KADES";
+// const namaKades = "Sugiono";
+// const namaCamat = "Agus";
+// const jabatan = "KADES";
 
 // if (jabatan != "KADES") {
 //     console.log(namaKades);
@@ -83,20 +84,44 @@ const jabatan = "KADES";
 //     console.log(namaCamat);
 // }
 
-const apakahBoss = "True";
-const apakahMiniBoss = "False";
+// const apakahBoss = true;
+// const apakahMiniBoss = false;
 
-if (!apakahBoss == !apakahMiniBoss) {
-    console.log("TRUE");
-    } else {
-    console.log("FALSE");
-}
+// if (apakahBoss && !apakahMiniBoss) {
+//     console.log("Naik Level");
+//     } else {
+//     console.log("Masih Cupu");
+// }
 
+// const mangga = false;
+// const jeruk = true;
 
+// if (mangga && !jeruk) {
+//     console.log("Favorit");
+// } else {
+//     console.log("Bukan Favorit");
+// }
 
+// const aa = "mobil"
+// const bb = "motor"
 
+// if (aa == "motor" || bb == "mobil") {
+//     console.log("nyaman");
+// } else {
+//     console.log("tidak nyaman");
+// }
 
+// function valC() {
+//     let a = 20;
 
+//     function valD() {
+//         let n = 10;
+//         console.log("Nilai C" + n + " " + a )
+//     }
+//     return valD()
+// }
+
+// valC();
 
 
 
